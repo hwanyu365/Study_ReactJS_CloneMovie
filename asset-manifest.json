@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/study_reactjs_clone_movie/static/css/main.ae32dca3.chunk.css",
+    "main.js": "/study_reactjs_clone_movie/static/js/main.1f90d204.chunk.js",
+    "main.js.map": "/study_reactjs_clone_movie/static/js/main.1f90d204.chunk.js.map",
+    "runtime-main.js": "/study_reactjs_clone_movie/static/js/runtime-main.f1a9f01b.js",
+    "runtime-main.js.map": "/study_reactjs_clone_movie/static/js/runtime-main.f1a9f01b.js.map",
+    "static/js/2.c5cee47c.chunk.js": "/study_reactjs_clone_movie/static/js/2.c5cee47c.chunk.js",
+    "static/js/2.c5cee47c.chunk.js.map": "/study_reactjs_clone_movie/static/js/2.c5cee47c.chunk.js.map",
+    "index.html": "/study_reactjs_clone_movie/index.html",
+    "static/css/main.ae32dca3.chunk.css.map": "/study_reactjs_clone_movie/static/css/main.ae32dca3.chunk.css.map",
+    "static/js/2.c5cee47c.chunk.js.LICENSE.txt": "/study_reactjs_clone_movie/static/js/2.c5cee47c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1a9f01b.js",
+    "static/js/2.c5cee47c.chunk.js",
+    "static/css/main.ae32dca3.chunk.css",
+    "static/js/main.1f90d204.chunk.js"
+  ]
+}
