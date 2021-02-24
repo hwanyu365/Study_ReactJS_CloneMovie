@@ -34,6 +34,7 @@ body,
   padding: 50px;
   padding-top: 70px;
   width: 80%;
+  text-decoration: none;
 }
 
 .container__movies .container__movie {
@@ -46,10 +47,15 @@ body,
   font-weight: 300;
   padding: 20px;
   position: relative;
-  color: #adaeb9;
   border-radius: 5px;
   box-shadow: 0 30px 60px -12px rgba(50, 50, 93, 0.25),
     0 18px 36px -18px rgba(0, 0, 0, 0.3), 0 -12px 36px -8px rgba(0, 0, 0, 0.025);
+}
+
+.container__link {
+  display: flex;
+  text-decoration: none;
+  color: #adaeb9;
 }
 
 .container__movie img {
