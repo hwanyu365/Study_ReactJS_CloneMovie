@@ -1,5 +1,5 @@
 {
-  "name": "study_reactjs_clone_movie",
+  "name": "study_react-js_movie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hwanyu365.github.io/study_reactjs_clone_movie/"
+  "homepage": "https://hwanyu365.github.io/study_react-js_movie/"
 }
